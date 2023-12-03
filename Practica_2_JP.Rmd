@@ -15,6 +15,10 @@ library(DT)
 ```
 
 
+```{r}
+datos <- read.csv("Datos/datos_libertad.csv")
+View(datos)
+```
 
 
 
