@@ -1,0 +1,20 @@
+---
+title: "Tarea_2"
+author: "Joseline Portuguez L"
+date: "2023-12-02"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(shiny)
+library(shinydashboard)
+library(ggplot2)
+library(dplyr)
+library(DT)
+```
+
+
+
+
+
